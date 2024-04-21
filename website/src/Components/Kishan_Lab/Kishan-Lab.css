@@ -1,0 +1,29 @@
+.kishan-lab {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.lab-info {
+    flex-basis: 60%;
+}
+
+.lab-info h2 {
+    font-size: 24px;
+    color: #36763d;
+}
+
+.lab-info p {
+    font-size: 16px;
+    color: #676767;
+}
+
+.lab-image {
+    flex-basis: 40%;
+}
+
+.lab-image img {
+    width: 100%;
+    border-radius: 10px;
+}
